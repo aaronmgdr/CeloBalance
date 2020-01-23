@@ -1,0 +1,16 @@
+{
+  "name": "celo-balance",
+  "version": "1.0.0",
+  "description": "a test",
+  "main": "index.js",
+  "repository": "git@github.com:aaronmgdr/CeloBalance.git",
+  "author": "Aaron DeRuvo <aaron.deruvo@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@celo/contractkit": "^0.2.10-beta1",
+    "web3": "^1.2.5-rc.0"
+  }
+}
